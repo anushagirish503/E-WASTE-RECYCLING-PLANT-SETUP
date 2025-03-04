@@ -1,5 +1,3 @@
-# E-WASTE-RECYCLING-PLANT-SETUP
-
 # E-Waste Management Project
 
 ## Overview
